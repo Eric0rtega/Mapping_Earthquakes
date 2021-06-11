@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-
+![Mapping Earthquakes Demo](mapping_eartquakes_sample.mov)
 ## Overview
 In this project I used d3.js to plot geoJSON data.
 I used an api to configure a map onto a webpage.
